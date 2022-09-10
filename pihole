@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "  [i] Disabling blocking for 10 seconds...
+  [✓] Reloading DNS lists
+  [✓] Pi-hole Enabled"
